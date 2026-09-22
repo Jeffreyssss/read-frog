@@ -1,5 +1,11 @@
 # @read-frog/extension
 
+## 1.47.5
+
+### Patch Changes
+
+- [#2218](https://github.com/mengxi-ream/read-frog/pull/2218) [`0bfc7ac`](https://github.com/mengxi-ream/read-frog/commit/0bfc7acd15f6b47a49f13cf7145bda68b4144475) Thanks [@ananaBMaster](https://github.com/ananaBMaster)! - fix(input-translation): restore translation in Reddit reply editors
+
 ## 1.47.4
 
 ### Patch Changes
